@@ -1,6 +1,3 @@
-# BigBasket-Sales-Analysis
-End-to-end BigBasket sales analysis using Python (data cleaning), MySQL (business queries) and Power BI (interactive dashboard).
-
 # BigBasket Product Analysis
 
 <p align="center">
@@ -95,31 +92,16 @@ BigBasket sells 27,000+ products across many categories, brands and price levels
 
 ## 4. Process and Methodology
 
-Raw data → Python (clean) → MySQL (analyse) → Power BI (dashboard) → Insights
+| Step | What I did | Tool |
+|:---:|---|---|
+| 1 | Collected the BigBasket product dataset (27,188 products) | Kaggle / CSV |
+| 2 | Cleaned and prepared the data | Python (Pandas) |
+| 3 | Analysed categories, discounts, brands and ratings with queries | MySQL |
+| 4 | Built a 4-page interactive dashboard (Overview, Pricing, Brands, Rating) | Power BI |
 
-**Step 1: Data collection**
-- Downloaded the product dataset from [ADD SOURCE].
+**Tools used:** Python, MySQL, Power BI
 
-**Step 2: Data cleaning (Python, Pandas)** - code in [`python/`](python/)
-- [ADD what you did, for example: checked missing values and duplicates]
-- [ADD what you did, for example: fixed data types and price columns]
-- [ADD what you did, for example: created Price Band, Discount Band and Brand Type columns]
-- Saved the cleaned file in [`data/`](data/).
-
-**Step 3: Analysis (MySQL)** - queries in [`sql/`](sql/)
-- [ADD, for example: products and average price by category]
-- [ADD, for example: discount analysis by sub-category]
-- [ADD, for example: own brand vs third-party comparison]
-- [ADD, for example: top-rated brands with a minimum number of ratings]
-
-**Step 4: Dashboard (Power BI)** - file in [`powerbi/`](powerbi/)
-- Built a 4-page dashboard (Overview, Pricing, Brands, Rating) with a page navigator.
-- Added filters for Category, Brand Type and Price Band on every page.
-- Each page has KPI cards, charts and a headline that states the main finding.
-- DAX measures: [ADD, for example: Total Products, Avg Discount %, Products On Discount %, Own Brand Share].
-
-**Step 5: Insights**
-- Read each page for patterns and wrote the findings and recommendations below.
+---
 
 [Back to top](#bigbasket-product-analysis)
 
