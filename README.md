@@ -49,11 +49,7 @@ BigBasket sells 27,000+ products across many categories, brands and price levels
 ## 2. Dataset Used
 
 | Item | Details |
-|---|---|
-| **Source** | [ADD DATASET NAME AND LINK, for example the Kaggle page] |
-| **Size** | 27,188 products, [ADD number of columns] columns |
-| **Download** | [Raw and cleaned data](data/) |
-| **Note** | [ADD if the file is too large for GitHub: "Only a sample is uploaded, full data at the source link"] |
+| **Download** | [Raw and cleaned data](https://github.com/prathamgaikwad735-png/BigBasket-Sales-Analysis/blob/main/BigBasket_clean.csv) |
 
 **Main fields used in the dashboard** (check against your dataset and edit):
 
