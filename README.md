@@ -66,7 +66,7 @@ BigBasket sells 27,000+ products across many categories, brands and price levels
 | Discount Band | No discount, 1-10%, 11-25%, 26-50%, >50% |
 | Rating | Customer rating (blank for unrated products) |
 
-**Project folders:** [`data/`](data/) | [`python/`](python/) | [`sql/`](sql/) | [`powerbi/`](powerbi/) | [`images/`](images/)
+**Project folders:** [`data/`](https://github.com/prathamgaikwad735-png/BigBasket-Sales-Analysis/blob/main/BigBasket_clean.csv) | [`python/`](https://github.com/prathamgaikwad735-png/BigBasket-Sales-Analysis/blob/main/Bigbasket.ipynb) | [`sql/`](https://github.com/prathamgaikwad735-png/BigBasket-Sales-Analysis/blob/main/Bigbasket%20Analysis.sql) | [`powerbi/`](https://github.com/prathamgaikwad735-png/BigBasket-Sales-Analysis/blob/main/BigBasket%20Analysis%20Project.pbix) | [`images/`](https://github.com/prathamgaikwad735-png/BigBasket-Sales-Analysis/tree/main/images)
 
 [Back to top](#bigbasket-product-analysis)
 
